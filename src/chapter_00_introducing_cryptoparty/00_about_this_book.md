@@ -27,8 +27,8 @@ The Book Sprint was 3 days in length and the full list of onsite participants in
  * Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). 
  * Cover art by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
 
-This version of the handbook has since moved to github to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
-If you see areas that need improvement or simply come across a typo, create a github account and start editing, commenting or creating issues. For help using git and github, see [https://help.github.com/](https://help.github.com/).
+This version of the handbook has since moved to GitHub to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
+If you see areas that need improvement or simply come across a typo, create a GitHub account and start editing, commenting or creating issues. For help using git and GitHub, see [https://help.github.com/](https://help.github.com/).
 
 CryptoParty HandBook Credits
 
@@ -58,7 +58,7 @@ Assisted by:
  * 'Story89'
  * Travis Tueffel
 
-Github migration, packaging and maintenance by:
+GitHub migration, packaging and maintenance by:
 
  * Yuval Adam
  * Samuel Carlisle
@@ -74,9 +74,9 @@ Other material included:
 
  * [https://www.flossmanuals.net/bypassing-censorship](https://www.flossmanuals.net/bypassing-censorship)
 
-The manuals used in the second half of this book borrow from 2 books sprinted by FLOSS Manuals:
+The manuals used in the second half of this book borrow from 2 books sprinted by FLOSS (free/libre/open-source software) manuals:
 
- * "How to Bypass Internet Censorship" 2008 & 2010 Adam Hyde (Facilitator), Alice Miller, Edward Cherlin, Freerk Ohling, Janet Swisher, Niels Elgaard Larsen, Sam Tennyson, Seth Schoen, Tomas Krag, Tom Boyle, Nart Villeneuve, Ronald Deibert, Zorrino Zorrinno, Austin Martin, Ben Weissmann, Ariel Viera, Niels Elgaard Larsen, Steven Murdoch, Ross Anderson, helen varley jamieson, Roberto Rastapopoulos, Karen Reilly, Erinn Clark, Samuel L. Tennyson, A Ravi
+ * "How to Bypass Internet Censorship" 2008 & 2010 Adam Hyde (Facilitator), Alice Miller, Edward Cherlin, Freerk Ohling, Janet Swisher, Niels Elgaard Larsen, Sam Tennyson, Seth Schoen, Tomas Krag, Tom Boyle, Nart Villeneuve, Ronald Deibert, Zorrino Zorrinno, Austin Martin, Ben Weissmann, Ariel Viera, Niels Elgaard Larsen, Steven Murdoch, Ross Anderson, Helen Varley Jamieson, Roberto Rastapopoulos, Karen Reilly, Erinn Clark, Samuel L. Tennyson, A Ravi
 
  * "Basic Internet Security" 2011 Adam Hyde (Facilitator), Jan Gerber, Dan Hassan, Erik Stein, Sacha van Geffen, Mart van Santen, Lonneke van der Velden, Emile den Tex and Douwe Schmidt
 
